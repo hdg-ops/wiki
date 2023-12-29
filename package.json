@@ -336,7 +336,8 @@
   },
   "resolutions": {
     "apollo-server-express/**/graphql-tools": "4.0.8",
-    "graphql": "15.3.0"
+    "graphql": "15.3.0",
+    "nan": "2.18.0"
   },
   "browserslist": [
     "> 1%",
